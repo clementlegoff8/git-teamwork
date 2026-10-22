@@ -1,7 +1,7 @@
 # the teamwork TP
 
-01 Nom:
-01 github:
+01 Nom: Clément
+01 github: clementlegoff8
 02 Nom: Madeleine Masson
 02 github: MadeleineMas
 03 Nom:
